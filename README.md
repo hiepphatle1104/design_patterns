@@ -1,5 +1,6 @@
 # Desgin Patterns
 
-I'm learning design patterns
+> I'm learning design patterns
 
-> Strategy pattern
+1. Strategy pattern
+2. Observer pattern

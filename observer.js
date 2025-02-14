@@ -1,6 +1,6 @@
 /*
 
-  Description: This code is used to simulate the strategy pattern.
+  Description: This code is used to simulate the observer pattern.
   Context: Team have 4 player, player number 3 go to another location then when the others open the map, they can see player 3 (PUBG Mobile).
 
 */

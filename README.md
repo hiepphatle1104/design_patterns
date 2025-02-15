@@ -11,4 +11,5 @@
 7. Singleton pattern
 8. Prototype pattern
 9. Builder pattern
-10. Bridge pattern
+10. Adapter pattern
+11. Bridge pattern
